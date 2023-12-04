@@ -1,5 +1,7 @@
 # Transformer-From-Scratch
-This repository contains a Python implementation of the Transformer model introduced in the paper "Attention is All You Need" 
+This repository contains a Python implementation of the Transformer model introduced in the paper "Attention is All You Need".
+The implementation is designed to be lightweight, with tuned-down hyperparameters for quick experimentation. For the original hyperparameters used in the paper, please refer to [Attention is All You Need Paper](https://arxiv.org/abs/1706.03762)
+
 
 
 - Input embeddings
